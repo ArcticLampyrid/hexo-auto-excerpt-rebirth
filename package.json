@@ -1,0 +1,26 @@
+{
+  "name": "hexo-auto-excerpt-rebirth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcticLampyrid/hexo-auto-excerpt-rebirth.git"
+  },
+  "keywords": [
+    "math",
+    "hexo",
+    "katex",
+    "hexo-filter",
+    "hexo-render"
+  ],
+  "author": "ArcticLampyrid <arcticlampyrid@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArcticLampyrid/hexo-auto-excerpt-rebirth/issues"
+  },
+  "homepage": "https://github.com/ArcticLampyrid/hexo-auto-excerpt-rebirth#readme"
+}
